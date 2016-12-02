@@ -1,3 +1,3 @@
 # JAVA CALCULATOR
 
-<img src="https://raw.githubusercontent.com/kingRayhan/javaCalculator/master/calculator.png">
+<img src="https://i.imgsafe.org/13a4bb63a2.png">
