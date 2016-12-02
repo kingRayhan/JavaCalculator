@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package info.rayhan.javaCalculator;
+package king.calculator;
 
 import java.net.URL;
 import java.util.ResourceBundle;
