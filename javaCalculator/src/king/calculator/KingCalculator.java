@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package king.calculator;
 
 import javafx.application.Application;
@@ -14,9 +9,9 @@ import javafx.stage.Stage;
 /**
  *
  * @author kingRayhan
+ * @url https://github.com/kingRayhan/javaCalculator
  */
 public class KingCalculator extends Application {
-    
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("kingFXML.fxml"));
@@ -26,8 +21,6 @@ public class KingCalculator extends Application {
         stage.setTitle("King Calculator");
         // Make unresizeable
         stage.setResizable(false);
-        
-        
         stage.setScene(scene);
         stage.show();
     }
